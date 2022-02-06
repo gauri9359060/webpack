@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Nunito', sans-serif, 'Quintessential', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap') format('woff2'),
+    url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap') format('woff2');
+
+    font-weight: 600;
+    font-style: normal;
+  }
+.colortext{
+    color:  red;
+}
+#root{
+    font-family: 'Nunito', sans-serif;;
+}
+#note{
+    font-family: 'Quintessential', cursive;;
+}
